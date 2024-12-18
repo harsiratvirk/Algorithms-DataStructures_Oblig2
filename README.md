@@ -1,20 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/FVZ-bAxQ)
-# Obligatorisk Oppgave 2 i DATS2300 - Algoritmer og Datastrukturer
+# Compulsory Assignment 2 in DATS2300 - Algorithms and Data Structures
 
-Denne oppgaven er en innlevering i DATS2300 - Algoritmer og datastrukturer. Den er innlevert av følgende studenter:
-* 385516, hakau9101@oslomet.no
-* 383071, mamah3702@oslomet.no
-* 383052, meayd8689@oslomet.no
-* 383011, zaahm2619@oslomet.no
-
-## Arbeidsfordeling
-I oppgaven har vi hatt følgende arbeidsfordeling:
-* 385516 har gjort oppgave 3, 5 og 6.
-* 383071 har gjort oppgave 1, 8 og 9.
-* 383052 har gjort oppgave 2 og 7.
-* 385516 har gjort oppgave 3, 5 og 6.
-* 383011 har gjort oppgave 4, 9 og 10.
-
+This assignment is a submission in Algorithms and Data Structures (in Norwegian). It was completed in collaboration with three other group members.
 
 ## Oppgavebeskrivelser
 
